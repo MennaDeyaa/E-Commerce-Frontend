@@ -1,2 +1,2 @@
 # E-Commerce-Frontend
-E-Commerce Frontend
+### Project made with : HTML, CSS, JS
